@@ -6,5 +6,6 @@ Continuous and unobtrusive monitoring of facial expressions holds tremendous pot
 
 This repo contains the code for the experiments conducted in our paper. Kindly cite our paper if you use this code:
 
-    Dhruv Verma, Sejal Bhalla, Dhruv Sahnan, Jainendra Shukla, and Aman Parnami. 2021. ExpressEar: Sensing Fine-Grained Facial Expressions with Earables. 
-    Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 5, 3, Article 129 (Sept 2021), 28 pages. DOI:https://doi.org/10.1145/3478085
+    Dhruv Verma, Sejal Bhalla, Dhruv Sahnan, Jainendra Shukla, and Aman Parnami. 2021. ExpressEar: Sensing Fine-Grained 
+    Facial Expressions with Earables. In Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies 
+    5, 3, Article 129 (Sept 2021), 28 pages. DOI:https://doi.org/10.1145/3478085
